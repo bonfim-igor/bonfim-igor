@@ -1,8 +1,8 @@
 ### "Olá Mundo" Eu sou o Igor Bonfim
 <div>
   <a href="https://github.com/bonfim-igor">
-  <img height=168 align="center" src="https://github-readme-stats.vercel.app/api?username=bonfim-igor&show_icons=true&theme=midnight-purple&include_all_commits=true">
-  <img height=168 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonfim-igor&layout=compact&langs_count=16&show_icons=true&theme=midnight-purple">
+  <img height=168 align="center" src="https://github-readme-stats.vercel.app/api?username=bonfim-igor&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height=168 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonfim-igor&layout=compact&langs_count=16&show_icons=true&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
