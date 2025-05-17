@@ -9,7 +9,7 @@
   <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img height="100em" align="right" alt="Garfield-Hello" src="https://cdn.discordapp.com/attachments/1126588035627225119/1373182453832745050/hello-waving-hello.gif?ex=68297b51&hm=48f5f314115851fc2bf1d1bbdd3ba24c6ad673faf7da5e341ab11b392b1e6548">
+  <img height="100em" align="right" alt="Garfield-Hello" src="https://cdn.discordapp.com/attachments/1126588035627225119/1373182453832745050/hello-waving-hello.gif?ex=68297b51&is=682829d1&hm=48f5f314115851fc2bf1d1bbdd3ba24c6ad673faf7da5e341ab11b392b1e6548">
 </div>
 
 #
