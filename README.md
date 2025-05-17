@@ -1,8 +1,8 @@
 ### "Olá Mundo" Eu sou o Igor Bonfim
 <div>
   <a href="https://github.com/bonfim-igor">
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=bonfim-igor&show_icons=true&theme=midnight-purple&include_all_commits=true">
-  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonfim-igor&layout=compact&langs_count=16&show_icons=true&theme=midnight-purple">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bonfim-igor&show_icons=true&theme=midnight-purple&include_all_commits=true">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonfim-igor&layout=compact&langs_count=16&show_icons=true&theme=midnight-purple">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -15,8 +15,8 @@
 ##
 
 <div>
-  <a href="https://www.youtube.com/@bonfim-igor" target="_blank"><img height="27px" src="https://img.shields.io/badge/Youtube-FF0000?style-for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/x_igox" target="_blank"><img height="27px" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/bonfim_igor" target="_blank"><img height="27px" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="mailto:igor.bonfim662@gmail.com" target="_blank"><img height="27px" src="https://img.shields.io/badge/-Gmail-%233333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@bonfim-igor" target="_blank"><img height="25px" src="https://img.shields.io/badge/Youtube-FF0000?style-for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/x_igox" target="_blank"><img height="25px" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/bonfim_igor" target="_blank"><img height="25px" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="mailto:igor.bonfim662@gmail.com" target="_blank"><img height="25px" src="https://img.shields.io/badge/-Gmail-%233333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
