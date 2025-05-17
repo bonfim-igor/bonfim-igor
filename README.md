@@ -21,4 +21,4 @@
   <a href="mailto:igor.bonfim662@gmail.com" target="_blank"><img height="25px" src="https://img.shields.io/badge/-Gmail-%233333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-  ![Snake Animation](https://github.com/bonfim-igor/bonfim-igor/blob/output/github-contributor-grid-snake.svg)
+! (https://github.com/bonfim-igor/bonfim-igor/blob/output/github-contributor-grid-snake.svg)
