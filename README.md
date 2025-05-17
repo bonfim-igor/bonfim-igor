@@ -17,5 +17,6 @@
 <div>
   <a href="https://www.youtube.com/@bonfim-igor" target="_blank"><img height="25px" src="https://img.shields.io/badge/Youtube-FF0000?style-for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/x_igox" target="_blank"><img height="25px" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
+  <a href="https://www.twitch.tv/bonfim_igor" target="_blank"><img height="25px" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="mailto:igor.bonfim662@gmail.com" target="_blank"><img height="25px" src="https://img.shields.io/badge/-Gmail-%233333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
