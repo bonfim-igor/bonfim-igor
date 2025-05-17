@@ -9,5 +9,5 @@
   <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Igor-Ghibli" src="https://media.discordapp.net/attachments/1126588035627225119/1373172196083499068/ghibli.jpg">
+  <img align="right" alt="Igor-Ghibli" src="https://cdn.discordapp.com/attachments/1126588035627225119/1373172196083499068/ghibli.jpg">
 </div>
