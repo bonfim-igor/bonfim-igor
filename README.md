@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div>
   <a href="https://github.com/bonfim-igor">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=bonfim-igor&show_icons=true&theme=midnight-purple&include_all_commits=true">
+  <img height="165em" gap="10px" src="https://github-readme-stats.vercel.app/api?username=bonfim-igor&show_icons=true&theme=midnight-purple&include_all_commits=true">
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonfim-igor&layout=compact&langs_count=16&show_icons=true&theme=midnight-purple">
 </div>
 <div style="display: inline_block"><br>
