@@ -1,4 +1,4 @@
-### "Olá Mundo" Eu sou o Igor Bonfim
+### "Hello World" Eu sou o Igor Bonfim
 <div>
   <a href="https://github.com/bonfim-igor">
   <img height=168 align="center" src="https://github-readme-stats.vercel.app/api?username=bonfim-igor&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
