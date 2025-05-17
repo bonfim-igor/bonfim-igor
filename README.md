@@ -23,7 +23,7 @@ Constantemente estou buscando atualizar meus conhecimentos e sempre em busca de 
   
 #
 
-<img align="right" alt="" height="190px" src="https://cdn.discordapp.com/attachments/1126588035627225119/1373196428859674705/study.gif?ex=68298855&is=682836d5&hm=1d6f4f46710b1d8751b723762547a6144e397319673581dfe81acdd96ed42330&">
+<img align="right" alt="" height="190px" src="https://media.discordapp.net/attachments/1126588035627225119/1373202563469414451/study.gif?ex=68298e0c&is=68283c8c&hm=97aa5a6dc0224a00736003d6a586a98a7ee4a3c550f571ac4686473dc29f3678&=">
 
 <h3 align="left">Connect with me!</h3>
 
