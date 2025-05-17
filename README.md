@@ -1,25 +1,47 @@
-### "Hello World" Eu sou o Igor Bonfim
-<div>
-  <a href="https://github.com/bonfim-igor">
-  <img height=168 align="center" src="https://github-readme-stats.vercel.app/api?username=bonfim-igor&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
-  <img height=168 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonfim-igor&layout=compact&langs_count=16&show_icons=true&theme=blue_navy"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img height="100em" align="right" alt="Garfield-Hello" src="https://cdn.discordapp.com/attachments/1126588035627225119/1373182453832745050/hello-waving-hello.gif?ex=68297b51&is=682829d1&hm=48f5f314115851fc2bf1d1bbdd3ba24c6ad673faf7da5e341ab11b392b1e6548">
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Arial+Code&weight=500&size=22&pause=1000&color=FFF&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+profile!" alt="Typing SVG">
+  </a>
 </div>
 
 #
 
-<div>
-  <a href="https://www.youtube.com/@bonfim-igor" target="_blank"><img height="25px" src="https://img.shields.io/badge/Youtube-FF0000?style-for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/x_igox" target="_blank"><img height="25px" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/bonfim_igor" target="_blank"><img height="25px" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="mailto:igor.bonfim662@gmail.com" target="_blank"><img height="25px" src="https://img.shields.io/badge/-Gmail-%233333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div style="text-align: center;" align="center">
+  <h3>GitHub Stats</h3>
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bonfim-igor&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FFF&text_color=FFF&border_radius=3&border_color=FFF&icon_color=FFF&theme=jolly" alt="GitHub stats">
+
+  <a href="https://github.com/mari4souza/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bonfim-igor&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFF6&bg_color=000&text_color=FFF&border_radius=3&border_color=FFF&count_private=true" alt="Most Used Languages">
+  </a>
 </div>
+
+#
+
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na UNIP em Alphaville. Atualmente estou estudando HTML, CSS, Javascript e Python.
+Constantemente estou buscando atualizar meus conhecimentos e sempre em busca de novos desafios na área de tecnologia. Gosto de aprender e aplicar meus conhecimentos para criar soluções.
+  
+#
+
+<img align="right" alt="" height="190px" src="https://cdn.discordapp.com/attachments/1126588035627225119/1373196428859674705/study.gif?ex=68298855&is=682836d5&hm=1d6f4f46710b1d8751b723762547a6144e397319673581dfe81acdd96ed42330&">
+
+<h3 align="left">Connect with me!</h3>
+
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFF&color:FFF)](https://instagram.com/x_igox)
+[![E-mail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:igor.bonfim662@gmail.com)
+
+
+<h3 align="left">Tech Skills </h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="25" alt="python logo" />
+  <img width="8" />
 
 #
 
