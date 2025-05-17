@@ -1,2 +1,6 @@
 ## Hi there 👋
-https://github-readme-stats.vercel.app/api?username=bonfim-igor)](https://github.com/anuraghazra/github-readme-stats
+<div>
+  <a href="https://github.com/bonfim-igor">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bonfim-igor)](https://github.com/anuraghazra/github-readme-stats"
+</div>
+
