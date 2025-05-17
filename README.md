@@ -18,7 +18,7 @@
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Universidade Paulista - UNIP em Alphaville. Atualmente estou estudando HTML, CSS, Javascript e Python.
+<p align="center">Estudante de Análise e Desenvolvimento de Sistema na Universidade Paulista - UNIP em Alphaville. Atualmente estou estudando HTML, CSS, Javascript e Python.
 Constantemente estou buscando atualizar meus conhecimentos e sempre em busca de novos desafios na área de tecnologia. Gosto de aprender e aplicar meus conhecimentos para criar sistemas e soluções de problemas maiores.
   
 #
