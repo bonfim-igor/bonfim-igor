@@ -44,5 +44,3 @@ Constantemente estou buscando atualizar meus conhecimentos e sempre em busca de 
   <img width="8" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="25" alt="python logo" />
   <img width="8" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="25" alt="git logo" />
-  <img width="8" />
