@@ -28,8 +28,8 @@ Constantemente estou buscando atualizar meus conhecimentos e sempre em busca de 
 <h3 align="left">Connect with me!</h3>
 
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFF&color:FFF)](https://instagram.com/x_igox)
+[![GitHub](https://img.shields.io/badge/github-000.svg?style=for-the-badge&logo=github&logoColor=FFF)](https://github.com/bonfim-igor)
 [![E-mail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:igor.bonfim662@gmail.com)
-
 
 <h3 align="left">Tech Skills </h3>
 
@@ -43,6 +43,8 @@ Constantemente estou buscando atualizar meus conhecimentos e sempre em busca de 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
   <img width="8" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="25" alt="python logo" />
+  <img width="8" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="25" alt="git logo" />
   <img width="8" />
   
 #
