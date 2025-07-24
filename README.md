@@ -38,8 +38,6 @@ Estou constantemente buscando atualizar meus conhecimentos e sempre em busca de 
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="25" alt="typescript logo"  />
-  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
   <img width="8" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="25" alt="python logo" />
