@@ -29,15 +29,3 @@ Estou constantemente buscando atualizar meus conhecimentos e sempre em busca de 
 
 [![GitHub](https://img.shields.io/badge/github-000.svg?style=for-the-badge&logo=github&logoColor=FFF)](https://github.com/bonfim-igor)
 [![E-mail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:igor.bonfim662@gmail.com)
-
-<h3 align="left">Tech Skills </h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="25" alt="python logo" />
-  <img width="8" />
