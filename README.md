@@ -27,7 +27,6 @@ Estou constantemente buscando atualizar meus conhecimentos e sempre em busca de 
 
 <h3 align="left">Connect with me!</h3>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFF&color:FFF)](https://instagram.com/x_igox)
 [![GitHub](https://img.shields.io/badge/github-000.svg?style=for-the-badge&logo=github&logoColor=FFF)](https://github.com/bonfim-igor)
 [![E-mail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:igor.bonfim662@gmail.com)
 
