@@ -8,11 +8,8 @@
 
 <div style="text-align: center;" align="center">
   <h3>GitHub Stats</h3>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=bonfim-igor&show_icons=true&theme=jolly" alt="GitHub stats">
-
-  <a href="https://github.com/bonfim-igor/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonfim-igor&line_height=10&card_width=290&layout=compact&hide_title=false&langs_count=4&show_icons=true&title_color=FFF&bg_color=000&text_color=FFF&border_radius=3&border_color=FFF&count_private=true" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=bonfim-igor&line_height=10&card_width=290&layout=compact&hide_title=false&langs_count=4&show_icons=true&title_color=FFF&bg_color=000&text_color=FFF&border_radius=3&border_color=FFF&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonfim-igor&line_height=10&card_width=290&layout=compact&hide_title=false&langs_count=4&show_icons=true&title_color=FFF&bg_color=000&text_color=FFF&border_radius=3&border_color=FFF&count_private=true" />
   </a>
 </div>
 
